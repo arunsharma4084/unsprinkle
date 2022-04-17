@@ -2,7 +2,7 @@ const data = [
   {
     id: 'a',
     src: '/images/vincent-van-zalinge-bird.jpg',
-    alt: 'A tiny shrewd turquoise-and-amber bird',
+    alt: 'Portrait of a tiny shrewd turquoise-and-amber bird sitting on a branch',
     tags: [
       'bird',
       'blurred background',
@@ -31,7 +31,7 @@ const data = [
   {
     id: 'e',
     src: '/images/karsten-winegeart-dog.jpg',
-    alt: 'A small dog wearing a golden "Champions" hoodie',
+    alt: 'A cute small dog wearing a golden "Champions" hoodie',
     tags: ['dog', 'cute', 'animal wearing human clothes'],
   },
   {
